@@ -8,3 +8,5 @@ their databases, then their interfaces. I also used alot of Log.d() commands to 
 for each database, meaning an item 0 existed in each database until an item 1 was created, after which item 0 would be removed. For testing, I used many Log.d commands as well as frequently testing
 in the emulator. It was important to know where my code was getting hung up and why, and to see that every little function I had worked. I think that my database management was the best display
 of my accrued knowledge. I made my database system pretty feature rich and I was proud of how my user and item management worked. 
+
+I went back and fixed my app too!
